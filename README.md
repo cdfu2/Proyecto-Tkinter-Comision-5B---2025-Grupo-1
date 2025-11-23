@@ -8,3 +8,4 @@ Bohlmann, Nahuel Jose Alejandro
 Telias Camacho, Christian David
 Franco Matias
 Francisco Muñoz
+Ayala Brisa
