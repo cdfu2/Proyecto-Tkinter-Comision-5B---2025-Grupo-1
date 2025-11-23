@@ -4,5 +4,7 @@ Proyecto Tkinter perteneciente al grupo 1
 Aca se agregan los nombres de los integrantes
 
 Integrantes:
-Bohlmann, Nahuel Jose Alejandro Bohlmann
-Telias Camacho, Christian David, Franco Matias.
+Bohlmann, Nahuel Jose Alejandro
+Telias Camacho, Christian David
+Franco Matias
+Francisco Muñoz
